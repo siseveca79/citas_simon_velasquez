@@ -32,4 +32,5 @@ http://localhost:3000/consultar-usuarios
 
 Veras en la consola algunos colores y ordenadas.
 ![Resultado en el navegador](resultado.png)
+![Resultado en la consola](consola.png)
 
